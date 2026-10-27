@@ -24,8 +24,4 @@ I used O(n) storage for n stored references in each structure. Memory grew as it
 
 ## Running the program
 
-Run `python unit2_discussion.py` from this folder. Run `python verify_unit2.py` from the parent folder for the additional checks. No external packages were required.
-
-## Submission status
-
-The Python program and documentation were completed locally. GitHub publication and the discussion post remained to be completed using the student's repository link. Two peer replies also remained pending actual classmates' posts.
+Run `python unit2_discussion.py` from this folder. No external packages were required.
